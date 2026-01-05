@@ -2,6 +2,8 @@
 One Identity. Intelligent Governance.
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=2500&pause=800&color=4F46E5&center=true&vCenter=true&width=700&lines=AI-powered+Citizen+Services;Simplifying+Government+Processes;Clarity+over+Complexity" /> </p> <p align="center"> <img src="https://img.shields.io/badge/AI-Google%20Gemini-blueviolet?style=for-the-badge" /> <img src="https://img.shields.io/badge/Platform-Next.js-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Deployment-Vercel-black?style=for-the-badge" /> <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" /> </p>
 🌐 What is CivicAI?
+<img width="1899" height="848" alt="Screenshot 2026-01-05 091012" src="https://github.com/user-attachments/assets/81703a41-cc19-4f5a-b4e0-202fa2b9c4f6" />
+
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=22C55E&width=900&lines=Turning+complex+government+processes+into+simple+guided+workflows.;Helping+citizens+apply+correctly+the+first+time." /> </p>
 
 CivicAI is an AI-driven digital governance platform that helps citizens understand, navigate, and complete government services using conversational intelligence and document analysis.
