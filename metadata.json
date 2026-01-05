@@ -1,0 +1,8 @@
+{
+  "name": "CivicAI - Citizen Services Portal",
+  "description": "An AI-powered digital government portal providing transparent, accessible, and automated public services for citizens.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
